@@ -1,0 +1,6 @@
+
+seu nome eh: aa
+seu sobrenome eh: bb
+seu endereco eh: cc
+seu telefone eh :dd
+o ano em que vc nasceu: 2000Sua idade eh: 20
